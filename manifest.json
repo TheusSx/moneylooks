@@ -1,0 +1,19 @@
+{
+  "name": "MultiplicaMais",
+  "short_name": "MultiplicaMais",
+  "theme_color": "#090f1e",
+  "background_color": "#090f1e",
+  "display": "standalone",
+  "start_url": ".",
+  "splash_pages": null,
+  "icons": [
+    {
+      "src": "src/images/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "permissions": [
+    ""
+  ]
+}
